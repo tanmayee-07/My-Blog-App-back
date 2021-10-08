@@ -6,4 +6,4 @@
 - About page is my introduction page.
 - Articles page contains a list of articles written by me.
 - User can navigate through the web app and view any article of his/her choice.
-- There is a comment form which the user can utilize in order to give necessary feedback on the article.
+- There is a comment section which the user can utilize in order to give necessary feedback on the article.
